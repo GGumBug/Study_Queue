@@ -1,0 +1,15 @@
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/bin/Debug/net7.0/Study_Queue
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/bin/Debug/net7.0/Study_Queue.deps.json
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/bin/Debug/net7.0/Study_Queue.runtimeconfig.json
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/bin/Debug/net7.0/Study_Queue.dll
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/bin/Debug/net7.0/Study_Queue.pdb
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/Study_Queue.csproj.AssemblyReference.cache
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/Study_Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/Study_Queue.AssemblyInfoInputs.cache
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/Study_Queue.AssemblyInfo.cs
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/Study_Queue.csproj.CoreCompileInputs.cache
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/Study_Queue.dll
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/refint/Study_Queue.dll
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/Study_Queue.pdb
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/Study_Queue.genruntimeconfig.cache
+/Users/minki/Charp_Projects/Study_Queue/Study_Queue/obj/Debug/net7.0/ref/Study_Queue.dll
