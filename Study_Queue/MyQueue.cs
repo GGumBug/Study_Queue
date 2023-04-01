@@ -41,7 +41,15 @@ namespace Study_Queue
                 return default(T);
             }
 
-			return elements[front++];
+			T item = elements[front];
+
+			for (int i = 0; i < rear; i++)
+			{
+				elements[i] = elements[i + 1];
+			}
+			rear--;
+
+            return item;
 		}
 
 		public void Print()

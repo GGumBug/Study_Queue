@@ -5,7 +5,7 @@ namespace Study_Queue
 	{
 		static void Main(string[] args)
 		{
-
+			MyQueue<int> myQueue = new MyQueue<int>(5);
         }
 	}
 }
